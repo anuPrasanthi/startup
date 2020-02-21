@@ -1,0 +1,14 @@
+.header{
+    height: 50px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background-color: #b07fff;
+    color: azure;
+}
+
+.button{
+    background-color: #1d1d81;
+    color:azure;
+    width: 150px;
+    margin: 10px 50px 80px 15px;
+}

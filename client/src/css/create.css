@@ -1,0 +1,21 @@
+.header{
+    height: 50px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background-color: #b07fff;
+    color: azure;
+}
+
+.button{
+    background-color: #1d1d81;
+    color:azure;
+    padding: 10px;
+    margin: 10px 10px 5px 15px;
+}
+.form-inline{
+    vertical-align: middle;
+    margin: 5px 10px 5px 15px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
